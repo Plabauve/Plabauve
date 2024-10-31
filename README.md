@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Healthcare Administrator, Adjuct Professor, and Data Scientist, passionate about turning data into actionable insights and building intelligent systems.
+I'm a Healthcare Administrator, Adjuct Professor, and aspiring Data Scientist, passionate about turning data into actionable insights and building intelligent systems.
 
 ## 🛠️ Technical Skills
 
