@@ -47,6 +47,7 @@ I'm Peyton - a Healthcare Administrator, Adjuct Professor, and aspiring Data Sci
 ```python
 # Quick example of my data science workflow
 def data_science_pipeline(data):
+
     # Data preprocessing
     data = clean_and_preprocess(data)
     
