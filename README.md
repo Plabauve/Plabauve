@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Peyton - a Healthcare Administrator, Adjuct Professor, and aspiring Data Scientist, passionate about turning data into actionable insights and building intelligent systems.
+I'm Peyton - an educator, data analyst, licensed healthcare administrator, and Fellow of the American College of Healthcare Executives (FACHE), passionate about turning data into actionable insights and building intelligent systems.
 
 ## 🛠️ Technical Skills
 
